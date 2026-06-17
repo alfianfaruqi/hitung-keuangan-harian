@@ -1,0 +1,6 @@
+{
+  "name": "Buku Kas Harian",
+  "description": "Aplikasi pencatat keuangan harian dengan nuansa skeuomorfik buku kas kulit fisik, dilengkapi asisten AI untuk menghitung nominal pendapatan & pengeluaran otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
